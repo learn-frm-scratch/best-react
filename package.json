@@ -1,0 +1,21 @@
+{
+  "name": "learning-from-scratch",
+  "version": "1.0.0",
+  "description": "this is learning from basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-frm-scratch/best-react.git"
+  },
+  "keywords": [
+  ],
+  "author": "Neetu Pundir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-frm-scratch/best-react/issues"
+  },
+  "homepage": "https://github.com/learn-frm-scratch/best-react#readme"
+}
