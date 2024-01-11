@@ -10,12 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/learn-frm-scratch/best-react.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Neetu Pundir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/learn-frm-scratch/best-react/issues"
   },
-  "homepage": "https://github.com/learn-frm-scratch/best-react#readme"
+  "homepage": "https://github.com/learn-frm-scratch/best-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+  "last 2 versions"
+  ]
 }
