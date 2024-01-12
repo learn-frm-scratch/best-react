@@ -1,6 +1,8 @@
 // imported react and reactdom from nodemodule folder
 import React from "react";
 import ReactDOM  from "react-dom/client";
+// import "./index.css";
+// import userIcon from "./user-image.png";
 
 // if we would have nested elements, below is the idea -
 const parent = React.createElement("div", {}, [
@@ -9,4 +11,3 @@ const parent = React.createElement("div", {}, [
 ])
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
-
